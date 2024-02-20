@@ -1,0 +1,15 @@
+model\Application$1.class
+stats\FullStats.class
+stats\CompoundStats.class
+Main$1.class
+model\Application.class
+stats\StringStats.class
+model\EntryTypes.class
+Main.class
+stats\IntStats.class
+stats\StatModes.class
+stats\BasicStats.class
+stats\IStats.class
+Main$ArgParsingStatus.class
+stats\FloatStats.class
+model\Configuration.class
